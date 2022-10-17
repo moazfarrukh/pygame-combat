@@ -3,7 +3,7 @@ A fighting game made in pygame
 
 ## ⚡️ Quick Setup
 
-1. Clone the project and navigate to project folder
+1. Clone the repo and navigate to the repo folder
 ```bash
 git clone https://github.com/moazfarrukh/pygame-combat && cd pygame-combat
 ```
