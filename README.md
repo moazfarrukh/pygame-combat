@@ -19,7 +19,7 @@ pipenv install
 ```bash
 pipenv shell
 ```
-5. Run the game 
+5. Run the game :)
 ```bash
 python main.py
 ```
