@@ -13,11 +13,11 @@ pip install pipenv
 ```
 3. Setup pipenv
 ```bash
-pipenv install  
+python -m pipenv install  
 ```
 4. Run the shell  
 ```bash
-pipenv shell
+python -m pipenv shell
 ```
 5. Run the game :)
 ```bash
